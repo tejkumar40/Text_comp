@@ -4,6 +4,7 @@ This project focuses on implementing text compression using the Huffman coding a
 # How Huffman Coding Works
 
 Huffman coding involves the following steps:
+
 1.Frequency Analysis: The text is analyzed to determine the frequency of occurrence for each character.
 
 2.Building the Huffman Tree: A binary tree is constructed using the frequency information, with characters as the tree leaves and the most frequent characters closer to the root.
