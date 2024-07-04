@@ -1,7 +1,8 @@
 # Text_comp
 This project focuses on implementing text compression using the Huffman coding algorithm. Huffman coding is a popular lossless compression technique that assigns variable-length codes to characters based on their frequency of occurrence in the text. This approach allows for efficient representation of frequently occurring characters with shorter codes and less frequent characters with longer codes, resulting in overall text compression.
 
-#How Huffman Coding Works
+# How Huffman Coding Works
+
 Huffman coding involves the following steps:
 1.Frequency Analysis: The text is analyzed to determine the frequency of occurrence for each character.
 2.Building the Huffman Tree: A binary tree is constructed using the frequency information, with characters as the tree leaves and the most frequent characters closer to the root.
